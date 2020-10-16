@@ -1,7 +1,10 @@
 __MNIST data:__  around 70,000 handwritten digits in a  28 x 28 images.
 
 The algorithm takes as input an image to determine which number is shown.
-This is not a CNN algorithm as we flatten the image into a vector.
+This is not a CNN algorithm as we flatten the image into a vector.<br />
+
+__Technology:__<br />
+Neural Network with Tensorflow.<br />
 
 __Steps:__<br />
 1/ Prepare the data and preprocess it.<br />
